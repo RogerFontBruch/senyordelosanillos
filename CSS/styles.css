@@ -1,0 +1,244 @@
+#comencar{
+    margin-top: 570px;
+    margin-left: 325px;
+    position: fixed;
+   
+}
+
+#fotoportada{
+  position: fixed;
+}
+
+#credits{
+    position: fixed;
+    margin-top: 20px;
+    margin-left: 820px;
+}
+
+#Roger{
+    position: fixed;
+    margin-top: 530px;
+    margin-left: 20px;
+}
+
+#Marc{
+    position: fixed;
+    margin-top: 630px;
+    margin-left: 500px;
+}
+
+#creditsPag{
+    visibility: hidden;
+    
+}
+
+#mapaPag{
+    visibility: hidden;
+    
+}
+
+#botoinici{
+    position: fixed;
+    margin-top: 680px;
+    margin-left: 30px;
+}
+#fotomapa{
+    position: fixed;
+}
+
+#Hobbiton{
+    position: fixed;
+    margin-top: 200px;
+    margin-left: 250px;
+}
+
+#Rivendel{
+    position: fixed;
+    margin-top: 180px;
+    margin-left: 490px;
+}
+
+#Mordor{
+    position: fixed;
+    margin-top: 540px;
+    margin-left:800px;
+}
+
+#Isengard{
+    position: fixed;
+    margin-top: 385px;
+    margin-left:400px;
+}
+
+#Rohan{
+    position: fixed;
+    margin-top: 410px;
+    margin-left:500px;
+}
+#Moria{
+    position: fixed;
+    margin-top: 275px;
+    margin-left:437px;
+}
+
+#fonsvideo{
+    visibility: hidden;
+    position: fixed;
+    margin-top: 70px;
+    margin-left: 24px;
+}
+
+#tancarVideo{
+    position: fixed;
+    margin-top: -600px;
+    margin-left: 890px;
+}
+
+#zonaVideo{
+    position: fixed;
+    margin-top: px;
+    margin-left: px;
+}
+
+#boto_play{
+    position: fixed;
+    margin-top: -40px;
+    margin-left: 35px;
+}
+
+#boto_pausa{
+    position: fixed;
+    margin-top: -40px;
+    margin-left: 85px;
+}
+
+#boto_stop{
+    position: fixed;
+    margin-top: -40px;
+    margin-left: 125px;
+}
+
+#boto_replay{
+    position: fixed;
+    margin-top: -40px;
+    margin-left: 165px;
+}
+
+#fonsreproductor{
+    position: fixed;
+    margin-top: -570px;
+    margin-left: 85px;
+}
+
+#boto_play{
+    position: fixed;
+    margin-top: -140px;
+    margin-left: 470px;
+}
+
+#boto_pausa{
+    position: fixed;
+    margin-top: -125px;
+    margin-left: 590px;
+}
+
+#boto_stop{
+    position: fixed;
+    margin-top: -144px;
+    margin-left: 365px;
+}
+
+#boto_endavant{
+    position: fixed;
+    margin-top: -133px;
+    margin-left: 534px;
+}
+
+#boto_enrere{
+    position: fixed;
+    margin-top: -144px;
+    margin-left: 415px;
+}
+#zona_video{
+    position: fixed;
+    margin-top: -540px;
+    margin-left: 140px;
+}
+#boto_mesVol{
+    position: fixed;
+    margin-top: -143px;
+    margin-left: 720px;
+}
+#boto_menysVol{
+    position: fixed;
+    margin-top: -143px;
+    margin-left: 664px;
+}
+#marcador{
+    position: fixed;
+    margin-top: -139px;
+    margin-left: 200px;
+    font-size: 30px;
+    color: white;
+    
+}
+#textHobbiton{
+    visibility: hidden;
+    position: fixed;
+    color:white;
+    margin-top: 600px;
+    margin-left: 110px;
+    margin-right: 1000px;
+    
+    
+}
+#textRivendel{
+    visibility: hidden;
+    position: fixed;
+    color:white;
+    margin-top: 600px;
+    margin-left: 110px;
+    margin-right: 1000px;
+    
+    
+}
+#textMordor{
+    visibility: hidden;
+    position: fixed;
+    color:white;
+    margin-top: 600px;
+    margin-left: 110px;
+    margin-right: 1000px;
+    
+    
+}
+#textIsengard{
+    visibility: hidden;
+    position: fixed;
+    color:white;
+    margin-top: 600px;
+    margin-left: 110px;
+    margin-right: 1000px;
+    
+    
+}
+#textRohan{
+    visibility: hidden;
+    position: fixed;
+    color:white;
+    margin-top: 600px;
+    margin-left: 110px;
+    margin-right: 1000px;
+    
+    
+}
+#textMoria{
+    visibility: hidden;
+    position: fixed;
+    color:white;
+    margin-top: 600px;
+    margin-left: 110px;
+    margin-right: 1000px;
+    
+    
+}
